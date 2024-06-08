@@ -12,6 +12,11 @@ EvoCalc is designed to be an educational journey through the history of BASIC pr
 - **Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division.
 - **Simple User Interface**: Text-based input and output in the console.
 
+    #### Version 1.1
+    - Refactored to allow code reuse by utilizing subroutines and functions
+    - Information bar at the top including program name, version, and special keys
+    - Pressing enter after receiving an answer, before typing another value, will continue the calculation
+
 ### Future Versions
 - **Version 2.0 - QBX 4.5**
 - **Version 3.0 - QBX 7.1**
